@@ -13,3 +13,6 @@ Pros & Cons
 ✅ Constant-time add and check.
 ❌ False positives possible (controlled by m and k).
 ❌ No deletions (unless you use a counting Bloom filter variant).
+# Source Code
+A Python implementation of a Bloom Filter: a space-efficient probabilistic set membership structure.  
+Full code in src/bloom_filter.py .
